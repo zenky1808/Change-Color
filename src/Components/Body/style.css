@@ -1,0 +1,35 @@
+.container {
+    padding-top: 70px;
+}
+.card-picker {
+    border-color: #28a745;
+}
+.color-picker{
+    background-color: #28a745;
+    color: white;
+    font-weight: 600;
+}
+span {
+    padding:10px 10px;
+    margin: 10px;
+    width: 42px;
+    height: 42px;
+    cursor: pointer;
+    display: inline-block;
+}
+.result {
+    margin-top: 30px;
+}
+.result p {
+   font-size: 18px;
+   font-weight: 700;
+}
+.text-content{
+    /* font-family:"Dancing Script"; */
+    border: 3px solid #28a745;
+    padding: 5px;
+    font-weight: 600;
+}
+.active-color{
+    border: solid 3px black;
+}
